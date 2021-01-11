@@ -1,0 +1,11 @@
+-->plz install pygame , random , os module by
+pip install pygame
+pip install random
+pip install os
+
+-->plz place all the files together
+   pthon file , image file , music file
+-->plz run the command on python 3.9.0 version
+--> i hope u like this project
+-->😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊😊
+  
